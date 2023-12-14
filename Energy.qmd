@@ -1,6 +1,6 @@
 ---
 title: "에너지사용량 자료 분석"
-author: "sss"
+author: "SEOYEON CHOI"
 format: dashboard
 execute: 
   enabled: true
